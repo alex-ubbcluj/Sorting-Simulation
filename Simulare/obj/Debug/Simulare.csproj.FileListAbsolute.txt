@@ -1,0 +1,10 @@
+C:\Users\alex\Desktop\Simulare\Simulare\bin\Debug\Simulare.exe.config
+C:\Users\alex\Desktop\Simulare\Simulare\bin\Debug\Simulare.exe
+C:\Users\alex\Desktop\Simulare\Simulare\bin\Debug\Simulare.pdb
+C:\Users\alex\Desktop\Simulare\Simulare\obj\Debug\Simulare.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\Simulare\Simulare\obj\Debug\Simulare.Properties.Resources.resources
+C:\Users\alex\Desktop\Simulare\Simulare\obj\Debug\Simulare.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Simulare\Simulare\obj\Debug\Simulare.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Simulare\Simulare\obj\Debug\Simulare.exe
+C:\Users\alex\Desktop\Simulare\Simulare\obj\Debug\Simulare.pdb
+C:\Users\alex\Desktop\Simulare\Simulare\obj\Debug\Simulare.Form1.resources
